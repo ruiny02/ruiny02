@@ -3,11 +3,6 @@
 Mechanical Engineering & Software Double Major @ SKKU (Expected Feb. 2027)  
 Robotics · Autonomous Driving · Smart Factory
 
-- GitHub: https://github.com/ruiny02
-- LinkedIn: https://www.linkedin.com/in/taeyeong-lee-823307382/
-- Email: zsdsszz02@gmail.com
-- solved.ac: https://solved.ac/profile/ruiny02
-
 ---
 
 ## Cards
@@ -15,13 +10,13 @@ Robotics · Autonomous Driving · Smart Factory
 <div align="center">
 
 <!-- solved.ac tier card (mazassumnida) -->
-<a href="https://solved.ac/profile/ruiny02">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ruiny02" height="165" />
+<a href="https://solved.ac/profile/asdssaa">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdssaa" height="165" />
 </a>
 
 <!-- solved.ac grass card (mazandi) -->
-<a href="https://solved.ac/profile/ruiny02">
-  <img src="http://mazandi.herokuapp.com/api?handle=ruiny02&theme=warm" height="165" />
+<a href="https://solved.ac/profile/asdssaa">
+  <img src="http://mazandi.herokuapp.com/api?handle=asdssaa&theme=warm" height="165" />
 </a>
 
 </div>
@@ -62,13 +57,6 @@ Robotics · Autonomous Driving · Smart Factory
 ### Autonomous Driving Competition (Kookmin Univ.) — Project Developer (Apr 2025 – Jun 2025)
 - Developed lane detection + lane-following control
 - Implemented cone-avoidance maneuvers for competition scenarios
-
----
-
-## Awards & Credentials (Selected)
-- Merit-based Scholarships, Sungkyunkwan University (multiple terms)
-- Samsung MX Undergraduate Algorithm Training Program (Jul 2025 – Sep 2025)
-- ADsP (Advanced Data Analytics Semi-Professional), KDATA (Jun 2023)
 
 ---
 
